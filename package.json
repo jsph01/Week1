@@ -1,0 +1,19 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "read data and plot graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsph01/Week1.git"
+  },
+  "author": "Joseph Lister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsph01/Week1/issues"
+  },
+  "homepage": "https://github.com/jsph01/Week1#readme"
+}
